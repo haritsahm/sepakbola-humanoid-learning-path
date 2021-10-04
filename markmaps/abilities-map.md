@@ -10,7 +10,7 @@
 - Representations & Computation
 - Bayes Filters
 - Gaussian & Non Parametric Fitlers
-### Motion Model
+#### Motion Model
 - Kinematic
 - Odometry
 #### Vision Model
