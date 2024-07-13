@@ -3,7 +3,7 @@
 A curated list of references for Indonesian students interested in developing Humanoid Soccer Robot.
 ---
 
-# Table of Contents 
+# Table of Contents
 | <!-- -->                                    | <!-- -->                    | <!-- -->                    | <!-- -->                    |
 | ------------------------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | [Programming Basic and Tools](#programming) | [Books](#programming-books) | <!-- -->                    | [Codes](#programming-codes) |
@@ -60,6 +60,7 @@ Skills and Knowledge:
 - [The Deep learning Development for Real-Time Ball and Goal Detection of Barelang-FC](https://ieeexplore.ieee.org/document/8240393)
 - [TORSO-21 Dataset: Typical Objects in RoboCup Soccer 2021](https://www.researchgate.net/publication/352384714_TORSO-21_Dataset_Typical_Objects_in_RoboCup_Soccer_2021)
 - [Towards Real-Time Ball Localization using CNNs](https://robocup.informatik.uni-hamburg.de/wp-content/uploads/2018/06/2018_Speck_Ball_Localization.pdf)
+- [NimbroNet2: Deep Learning Visual Perception](https://arxiv.org/pdf/1912.07405)
 
 <a name="cv-codes"></a>
 ## Codes :computer:
@@ -73,6 +74,8 @@ Skills and Knowledge:
 ## Books :books:
 - [Introduction to Humanoid Robotics](https://link.springer.com/book/10.1007/978-3-642-54536-8)
 - [Robotics - Modelling, Planning, and Control](https://www.springer.com/gp/book/9781846286414)
+- [ETH Zurich - Robot Dynamic Lecture Notes](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2016/RD2016script.pdf)
+
 
 <a name="motion-papers"></a>
 ## Papers :page_facing_up:
@@ -95,6 +98,7 @@ Skills and Knowledge:
 ## Codes :computer:
 - [s-kajita/IntroductionToHumanoidRobotics](https://github.com/s-kajita/IntroductionToHumanoidRobotics)
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+- [haritsahm/GankenKun_pybullet](https://github.com/sepakbola-humanoid-group/GankenKun_pybullet) - Implementation of Omniderectional ZMP Walking
 
 <a name="abilities"></a>
 # Abilities
@@ -121,14 +125,12 @@ Skills and Knowledge:
 ## Codes :computer:
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [haritsahm/monte-carlo-localization](https://github.com/haritsahm/monte-carlo-localization)
-- 
+
 # Awesome Open Source Repositories
 - [Rhoban](https://github.com/Rhoban)
 - [Rhoban Projects](https://github.com/RhobanProject)
-- [NUbots](https://github.com/NUbots/NUbots) - The NUbots codebase 
+- [NUbots](https://github.com/NUbots/NUbots) - The NUbots codebase
 - [bit-bots](https://github.com/bit-bots) - Official Github account of Hamburg Bit-Bots
+- [bit-bots/bit_foot](https://github.com/bit-bots/bit_foot) - Foot pressure sensor for a humanoid robot
 - [bit-bots/wolfgang_robot](https://github.com/bit-bots/wolfgang_robot) - Open Source Wolfgang-OP robot
-- [fumanoids/mitecom](https://github.com/fumanoids/mitecom) - Mixed Team Communication protocol 
-
-
-
+- [fumanoids/mitecom](https://github.com/fumanoids/mitecom) - Mixed Team Communication protocol
